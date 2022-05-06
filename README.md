@@ -5,3 +5,7 @@
 
 ## adding vuetify
 `vue add vuetify`
+
+## adding PWA functionality
+
+`vue add pwa`
